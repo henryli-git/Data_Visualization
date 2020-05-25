@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 plt.style.use('dark_background')
 plt.tight_layout()
 
-df = pd.read_csv('WHO_obesityByCountry_2016.csv')
+df = pd.read_csv('WHO_obesity_by_country_2016.csv')
 df.rename(columns={'Unnamed: 0': 'Country'}, inplace=True)
 df.dropna(inplace=True)
 
