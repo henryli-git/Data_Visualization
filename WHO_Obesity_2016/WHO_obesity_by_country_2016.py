@@ -19,6 +19,6 @@ plt.barh(country, both,
 
 plt.tick_params(axis='y', which='major', labelsize=1.3)
 plt.title('Obesity Among Adults Around the World in 2016', size=12)
-plt.xlabel('% Obese (BMI >= 30)', size=10)
+plt.xlabel('% Obese (BMI ≥ 30)', size=10)
 plt.savefig('Obesity_2016_graph.pdf')
 plt.show()
