@@ -1,0 +1,196 @@
+"","Both.sexes","Male","Female"
+"Afghanistan",4.5,2.7,6.2
+"Albania",22.3,21.9,22.8
+"Algeria",26.6,19.4,34
+"Andorra",28,27.9,28.1
+"Angola",6.8,3.5,10
+"Antigua and Barbuda",19.1,11.7,26.3
+"Argentina",28.5,27.4,29.6
+"Armenia",20.9,17.2,24.5
+"Australia",30.4,30.7,30.1
+"Austria",21.9,23.4,20.6
+"Azerbaijan",19.9,15.7,23.9
+"Bahamas",32.1,24.8,39
+"Bahrain",28.7,24.9,36.1
+"Bangladesh",3.4,2.2,4.6
+"Barbados",24.8,15.6,33.8
+"Belarus",26.6,23.5,29.1
+"Belgium",24.5,25.1,23.9
+"Belize",22.4,15.4,29.4
+"Benin",8.2,4.2,12.2
+"Bhutan",5.8,4.5,7.4
+"Bolivia (Plurinational State of)",18.7,13.4,23.9
+"Bosnia and Herzegovina",19.4,18.1,20.6
+"Botswana",16.1,7,25.5
+"Brazil",22.3,18.5,25.9
+"Brunei Darussalam",14.7,13,16.4
+"Bulgaria",27.4,27.5,27.4
+"Burkina Faso",4.5,2.2,6.8
+"Burundi",4.4,1.8,7
+"Cabo Verde",10.6,6.3,14.9
+"Cambodia",3.5,2.5,4.5
+"Cameroon",9.5,5.2,13.9
+"Canada",31.3,31.2,31.5
+"Central African Republic",6.3,3.2,9.3
+"Chad",4.8,2.6,7
+"Chile",28.8,25.5,32.1
+"China",6.6,6.2,7.1
+"Colombia",22.1,17.3,26.7
+"Comoros",6.9,3,10.8
+"Congo",8.4,4.9,11.8
+"Cook Islands",55.3,52,58.6
+"Costa Rica",25.7,21,30.4
+"Côte d'Ivoire",9,5.2,13.1
+"Croatia",27.1,26,28.2
+"Cuba",26.7,20.4,33
+"Cyprus",22.6,22.4,22.8
+"Czechia",28.5,28.5,28.6
+"Democratic People's Republic of Korea",7.1,6.4,7.8
+"Democratic Republic of the Congo",5.6,3.1,8
+"Denmark",21.3,23.7,18.9
+"Djibouti",12.2,7.9,16.5
+"Dominica",28.2,20,36
+"Dominican Republic",26.9,20.4,33.2
+"Ecuador",19.3,14.4,24.1
+"Egypt",31.1,22,40
+"El Salvador",22.7,17.1,27.4
+"Equatorial Guinea",7.4,3.6,11.4
+"Eritrea",4.1,1.8,6.3
+"Estonia",23.8,21.9,25.3
+"Eswatini",13.5,4.4,22.2
+"Ethiopia",3.6,1.6,5.6
+"Fiji",30,24.9,35.3
+"Finland",24.9,25.7,24.2
+"France",23.2,23.5,23
+"Gabon",13.4,8.6,18.2
+"Gambia",8.7,4.8,12.4
+"Georgia",23.3,20,26
+"Germany",25.7,26.6,24.9
+"Ghana",9.7,4.1,15
+"Greece",27.4,26,28.7
+"Grenada",20.2,12.6,27.6
+"Guatemala",18.8,13.1,23.8
+"Guinea",6.6,3.3,9.9
+"Guinea-Bissau",8.2,4.5,11.8
+"Guyana",19.2,12.2,26.1
+"Haiti",20.5,16.4,24.3
+"Honduras",19.4,14.1,24.5
+"Hungary",28.6,29.9,27.5
+"Iceland",23.1,25.3,20.9
+"India",3.8,2.7,4.9
+"Indonesia",6.9,4.9,9
+"Iran (Islamic Republic of)",25.5,19.1,31.8
+"Iraq",27.4,21,33.8
+"Ireland",26.9,26.5,27.3
+"Israel",26.7,26.1,27.2
+"Italy",22.9,22.5,23.3
+"Jamaica",24.4,15,33.2
+"Japan",4.4,4.6,4.1
+"Jordan",33.4,26.6,40.4
+"Kazakhstan",21.3,18.8,23.4
+"Kenya",6,2.5,9.4
+"Kiribati",45.6,41.2,50
+"Kuwait",37,33,43.9
+"Kyrgyzstan",15.4,13.1,17.5
+"Lao People's Democratic Republic",4.5,3.2,5.7
+"Latvia",25.7,22.9,28
+"Lebanon",31.3,27.4,35.3
+"Lesotho",13.5,3.7,22.8
+"Liberia",8.6,4.9,12.3
+"Libya",31.8,24.5,38.7
+"Lithuania",28.4,25.3,30.9
+"Luxembourg",24.2,26,22.4
+"Madagascar",4.5,2.6,6.3
+"Malawi",4.7,1.9,7.5
+"Malaysia",15.3,12.9,17.6
+"Maldives",7.9,5.4,10.3
+"Mali",7.1,3.9,10.4
+"Malta",31,30.9,31.2
+"Marshall Islands",52.4,47.9,56.9
+"Mauritania",11.3,6,16.6
+"Mauritius",11.5,5.9,16.8
+"Mexico",28.4,23.7,32.6
+"Micronesia (Federated States of)",41.6,36.1,47.3
+"Monaco",NA,NA,NA
+"Mongolia",19.6,16.7,22.4
+"Montenegro",24.9,24.5,25.2
+"Morocco",25.6,19,31.9
+"Mozambique",6,2.8,8.9
+"Myanmar",5.7,4,7.3
+"Namibia",15,6.5,22.7
+"Nauru",60.7,58.5,63
+"Nepal",3.8,2.5,4.8
+"Netherlands",23.1,22.7,23.4
+"New Zealand",32,31,32.9
+"Nicaragua",21.8,16.5,26.8
+"Niger",4.7,2.3,7.2
+"Nigeria",7.8,4.1,11.5
+"Niue",49.3,44.2,54.5
+"Norway",25,25.1,24.8
+"Oman",22.9,19.5,30.8
+"Pakistan",7.8,5.5,10.1
+"Palau",54.9,51.3,58.4
+"Panama",22.5,17.6,27.5
+"Papua New Guinea",19.4,15.2,23.7
+"Paraguay",19,16.1,21.9
+"Peru",19.1,14.7,23.5
+"Philippines",6,5,7
+"Poland",25.6,25.4,25.7
+"Portugal",23.2,22.1,24.2
+"Qatar",33.9,31.9,41.8
+"Republic of Korea",4.9,4.6,5.3
+"Republic of Moldova",20.1,16.9,23
+"Romania",24.5,24.9,24.2
+"Russian Federation",25.7,19.4,30.8
+"Rwanda",4.8,1.6,7.7
+"Saint Kitts and Nevis",23.1,15.4,30.5
+"Saint Lucia",19.8,12,27.2
+"Saint Vincent and the Grenadines",23.8,16.7,31
+"Samoa",45.5,38.2,53.2
+"San Marino",NA,NA,NA
+"Sao Tome and Principe",10.6,6.3,14.8
+"Saudi Arabia",35,31,41.2
+"Senegal",7.4,3.3,11
+"Serbia",23.5,22.5,24.5
+"Seychelles",14.6,8.1,21.4
+"Sierra Leone",7.5,3.4,11.6
+"Singapore",6.6,6.2,7
+"Slovakia",22.4,22.5,22.3
+"Slovenia",22.5,21.4,23.6
+"Solomon Islands",20.5,16.3,24.7
+"Somalia",6.9,3.4,10.3
+"South Africa",27,14.5,38.5
+"South Sudan",NA,NA,NA
+"Spain",27.1,27.1,27.2
+"Sri Lanka",5.4,3,7.7
+"Sudan",NA,NA,NA
+"Sudan (former)",7.4,3.4,10.7
+"Suriname",26.5,19,33.9
+"Sweden",22.1,24.2,20
+"Switzerland",21.2,23.7,18.8
+"Syrian Arab Republic",25.8,19.3,32.4
+"Tajikistan",12.6,10.4,14.6
+"Thailand",10.8,7.5,13.8
+"Republic of North Macedonia",23.9,23.8,23.9
+"Timor-Leste",2.9,2.1,3.8
+"Togo",7.1,3.4,10.7
+"Tonga",45.9,39,52.6
+"Trinidad and Tobago",19.7,11.4,27.7
+"Tunisia",27.3,19.3,34.9
+"Turkey",32.2,24.2,39.7
+"Turkmenistan",17.5,15,19.9
+"Tuvalu",51,46.4,55.6
+"Uganda",4.1,1.5,6.8
+"Ukraine",26.1,23.2,28.4
+"United Arab Emirates",29.9,26.7,38.8
+"United Kingdom of Great Britain and Northern Ireland",29.5,28.6,30.4
+"United Republic of Tanzania",7.1,3.4,10.7
+"United States of America",37.3,36.5,38.2
+"Uruguay",28.9,25.3,32.1
+"Uzbekistan",15.3,12.9,17.7
+"Vanuatu",23.5,18.8,28.1
+"Venezuela (Bolivarian Republic of)",25.2,22.1,28.3
+"Viet Nam",2.1,1.6,2.6
+"Yemen",14.1,9.9,18.2
+"Zambia",6.5,3,10
+"Zimbabwe",12.3,3.7,20.5
