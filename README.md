@@ -1,6 +1,6 @@
 # Data Visualization
 
-This repository contains graphs of various csv data sets from kaggle.com.  The graphs
+This repository contains graphs of various csv data sets from.  The graphs
 can be viewed with any pdf reader.
 
 ### Note
