@@ -1,6 +1,3 @@
-''' Crude estimates of obesity among adults in 2016 from the World Health Organization's Global Health Observatory Repository
-    Obesity is defined as BMI >= 30
-'''
 import pandas as pd
 import matplotlib.pyplot as plt
 
