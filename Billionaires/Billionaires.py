@@ -1,3 +1,5 @@
+'''Top 10 Wealthiest People in 2019'''
+
 import pandas as pd
 import matplotlib.pyplot as plt
 
