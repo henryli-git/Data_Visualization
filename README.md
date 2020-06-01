@@ -8,4 +8,4 @@ Before running the associated python files, make sure the file location entered 
 ### Graph Artist
 * **Henry Li**
 
-![](Ramen_Ratings/WHO_obesity_by_country_2016_graph.pdf)
+![](Ramen_Ratings/Instant_Ramen_Brand_Ratings_by_Country_graph.png)
