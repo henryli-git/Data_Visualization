@@ -8,4 +8,5 @@ Before running the associated python files, make sure the file location entered 
 ### Graph Artist
 * **Henry Li**
 
-![Example](Ramen_Ratings/Instant_Ramen_Brand_Ratings_by_Country_graph.png)
+### Examples
+![graph](Ramen_Ratings/Instant_Ramen_Brand_Ratings_by_Country_graph.png)
