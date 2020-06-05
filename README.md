@@ -1,6 +1,6 @@
 # Data Visualization
 
-This repository contains graphs of various csv data sets along with their python files. 
+This repository contains graphs of various csv data sets and associated python files. 
 
 ### Graph Artist
 * **Henry Li**
