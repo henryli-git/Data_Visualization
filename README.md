@@ -2,6 +2,9 @@
 
 This repository contains graphs of various csv data sets and associated python files. 
 
+## Acknowledgments
+Special thanks to the data scientists at kaggle.com for the data source.
+
 ### Graph Artist
 * **Henry Li**
 
