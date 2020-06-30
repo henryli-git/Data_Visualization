@@ -41,7 +41,7 @@ sns.set_palette(palette)
 sns.lineplot(data=df, x='year', y='net_worth', hue='name', linewidth=3, palette=sns.color_palette(palette, 27))
 
 handles, labels = ax.get_legend_handles_labels()
-leg = ax.legend(handles=handles[1:], labels=labels[1:], bbox_to_anchor=(1.01, 0.91), loc=2, frameon=False,
+leg = ax.legend(handles=handles[1:], labels=labels[1:], bbox_to_anchor=(1.01, 0.91), frameon=False,
                 prop={'family': 'Franklin Gothic Book', 'size': 12})
 for line in leg.get_lines():
     line.set_linewidth(3)
