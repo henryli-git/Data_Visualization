@@ -3,7 +3,7 @@
 This repository contains graphs of various csv data sets and associated python files. 
 
 ## Acknowledgments
-Special thanks to the data scientists at [kaggle.com](https://www.kaggle.com/) for providing the data.
+Special thanks to the data scientists at [kaggle.com](https://www.kaggle.com/) for providing the data.  Information about the data source can be found in the folder of the associated graph.
 
 ### Graph Artist
 * **Henry Li**
