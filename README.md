@@ -2,7 +2,7 @@
 
 This repository contains graphs of various csv data sets and associated python files. 
 
-### Prerequisites
+## Prerequisites
 
 Remember to check if you have the proper python modules installed before running the python script for each graph. 
 
