@@ -4,7 +4,7 @@ This repository contains graphs of various csv data sets and associated python f
 
 ## Prerequisites
 
-Remember to check if you have the proper python modules installed before running the python script for each graph. 
+Remember to check if you have the proper python modules installed before running the script for each graph. 
 
 ## Acknowledgments
 Special thanks to the data scientists at [kaggle.com](https://www.kaggle.com/) for providing the data.  Information about the data source can be found in the folder of the associated graph.
