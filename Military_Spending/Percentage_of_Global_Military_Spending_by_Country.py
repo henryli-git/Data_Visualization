@@ -52,5 +52,5 @@ p[10].set_rotation(83)
 plt.title('Percentage of Global Military Spending by Country in 2018\n (Expenditures in USD)', y=1.05,
           fontdict=font_dict)
 plt.tight_layout()
-plt.savefig('Percentage_of_Global_Military_Spending_by_Country.png', ppi=300)
+plt.savefig('Percentage_of_Global_Military_Spending_by_Country_graph.png', ppi=300)
 plt.show()
