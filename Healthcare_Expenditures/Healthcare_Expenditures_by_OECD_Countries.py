@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-df = pd.read_csv('OECD Health_systems.csv')
+df = pd.read_csv('OECD_Health_systems.csv')
 df = df[['Country_Region', 'Health_exp_per_capita_USD_2016', 'Health_exp_pct_GDP_2016']].dropna()
 df = df.sort_values('Health_exp_per_capita_USD_2016', ascending=True)
 
