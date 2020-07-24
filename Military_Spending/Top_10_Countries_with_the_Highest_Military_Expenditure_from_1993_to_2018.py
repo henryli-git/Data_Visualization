@@ -34,6 +34,7 @@ ax.set_facecolor('#cc99a2')
 handles, labels = ax.get_legend_handles_labels()
 ax.legend(reversed(handles), reversed(labels), fontsize=11)
 
+plt.setp(ax.get_yticklabels()[0], visible=False)
 plt.title('Top 10 Countries with the Highest Military Expenditure from 1993 to 2018', fontsize=20)
 plt.xticks(fontsize=11, color='#400000')
 plt.ylabel('Expenditure in Billions (USD)', fontsize=15)
