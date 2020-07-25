@@ -24,7 +24,7 @@ colors = ["#806364",
 plt.style.use('seaborn')
 plt.rcParams.update({'text.color': '#400000',
                      'axes.labelcolor': '#400000',
-                     'font.family': 'Lucida Grande'})
+                     'font.family': 'Arial Rounded MT Bold'})
 
 ax = df.plot.area(figsize=(16, 9), color=colors, alpha=0.65)
 ax.set_yticklabels([f'{int(x):,}' for x in ax.get_yticks().tolist()])
